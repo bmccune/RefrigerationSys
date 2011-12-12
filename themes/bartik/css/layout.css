@@ -55,7 +55,7 @@ body,
   position: relative;
 }
 .one-sidebar #content {
-  width: 720px;
+  width: 684px;
 }
 .two-sidebars #content {
   width: 480px;
@@ -66,14 +66,14 @@ body,
 }
 #sidebar-first,
 #sidebar-second {
-  width: 240px;
+  width: 220px;
 }
 #main-wrapper {
   min-height: 300px;
 }
 #content .section,
 .sidebar .section {
-  padding: 0 15px;
+  padding: 0;
 }
 #breadcrumb {
   margin: 0 15px;
