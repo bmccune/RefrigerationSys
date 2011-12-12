@@ -53,7 +53,7 @@
   (function ($){
   	$(document).ready(function(){
   		$('#slider').easySlider({
-  			auto:true,
+  			auto:false,
   			continuous:true,
   			numeric: true
   		});
